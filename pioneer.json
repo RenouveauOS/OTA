@@ -1,3 +1,1 @@
-{ "response": [ { "datetime": 1562379066, "filename": "Renouveau-v9.0-20190624-pioneer-Release.zip", "id": "5f7fb7774b98acf808b6adc174d9b363d8add8f89c69148691cfa40364080b38
-a126c394f404473aaa9d3bac8f65e7695bf8650882b334cafffbf527114c4a6a", "romtype": "Release", "size": 682903797
-685108463, "url": "https://github.com/RenouveauOS/android_device_Sony_pioneer/releases/download/v9.0-20190706-Release/Renouveau-v9.0-20190706-pioneer-Release.zip", "version": "9.0"  }]}
+{ "response": [ { "datetime": 1562379066, "filename": "Renouveau-v9.0-20190706-pioneer-Release.zip", "id": "a126c394f404473aaa9d3bac8f65e7695bf8650882b334cafffbf527114c4a6a", "romtype": "Release", "size": 685108463, "url": "https://github.com/RenouveauOS/android_device_Sony_pioneer/releases/download/v9.0-20190706-Release/Renouveau-v9.0-20190706-pioneer-Release.zip", "version": "9.0"  }]}
