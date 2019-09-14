@@ -4,7 +4,7 @@ A list of the latest updates for each officially supported device
 
 ## Submitting updates (for device maintainers only)
 
-When you compile an updated Renouveau build for your device, you'll received a generated line of JSON as part of the success output (which is also saved to `/out/target/product/{codename}/{codename}.json`). This JSON contains the response data that the LineageOS Updater app built-in to Renouveau will expect when checking for this new update. Once you've uploaded your updated Renouveau build to the GitHub Releases section for your device's manifest repository, you should fork this repo, ovewrite the data in your device's specific JSON file, and then submit a pull request for review.
+When you compile an updated Renouveau build for your device, you'll received a generated line of JSON as part of the success output (which is also saved to `/out/target/product/{codename}/{codename}.json`). This JSON contains the response data that the LineageOS Updater app built-in to Renouveau will expect when checking for this new update. Once you've uploaded your updated Renouveau build to the GitHub Releases section for your device's manifest repository, you should fork this repo, overwrite the data in your device's specific JSON file, and then submit a pull request for review.
 
 An example of this JSON file might look like the below output for the `nobleltetmo` device:
 ```JSON
